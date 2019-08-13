@@ -20,12 +20,12 @@
         (1) Heap sort
 
         (2) Merge sort
-          Temporarily use extra memory to sort and memory need grows linearly with increase in input set.
-          Method uses recursion.
-          Uses recursion.
-          Divide and conquer.
-          Stable.
-          Not in-place.
+            Temporarily use extra memory to sort and memory need grows linearly with increase in input set.
+            Method uses recursion.
+            Uses recursion.
+            Divide and conquer.
+            Stable.
+            Not in-place.
 
         (3) Quick sort (Randomized)
             Quick sort
