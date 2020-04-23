@@ -37,7 +37,7 @@
             Its an in-place sorting algorithm.
             Uses recursion.
 
-   5. Quadratic : O(n^2)
+   5. Quadratic : O($n^2$)
         (1) Bubble sort - Least efficient
             Remember first element bubbling (outer loop and inner loop)
             In place sorting
