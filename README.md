@@ -1,6 +1,6 @@
-# H1 Sorting algorithms in C
+# Sorting algorithms in C
 
-# H2 Big(O) notation 
+## Big(O) notation 
    Big(O) is the time complexity behaviour of an algorithm as the input data set grows.
    O in this means order of operations.
    There is also a concept of space complexity or memory usage, like whether an algorithm can be sorted in place,
