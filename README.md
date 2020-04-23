@@ -11,16 +11,21 @@
    Least to Most time complexity (ascending order of time complexity) of few of the known algorithms are as follows
 
    1. Constant time : O(1)
+   
         Example, looking up a single element in an array
 
    2. Logarithmic time : O(log n)
+   
         Example, binary search performed on a sorted array has logarithmic complexity
 
    3. Linear time : O(n)
+   
         Example, searching an unsorted array for a specific value
 
    4. Log linear : O(n log n)
+   
       Complex sorting algorithms like
+      
         (1) Heap sort
 
         (2) Merge sort
@@ -38,6 +43,7 @@
             Uses recursion.
 
    5. Quadratic : O(n<sup>2</sup>)
+   
         (1) Bubble sort - Least efficient
             Remember first element bubbling (outer loop and inner loop)
             In place sorting
