@@ -3,7 +3,7 @@
    There is also a concept of space complexity or memory usage, like whether an algorithm can be sorted in place,
    or with constant memory or will it use extra memory to store intermediate results.
 
-   ![](graph.jpg)
+   ![](https://res.cloudinary.com/practicaldev/image/fetch/s--NR3M1nw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z4bbf8o1ly77wmkjdgge.png)
    
    Least to Most time complexity (ascending order of time complexity) of few of the known algorithms are as follows
 
