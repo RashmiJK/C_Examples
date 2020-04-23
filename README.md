@@ -6,7 +6,7 @@
    There is also a concept of space complexity or memory usage, like whether an algorithm can be sorted in place,
    or with constant memory or will it use extra memory to store intermediate results.
 
-   ![](graph.jpg)
+   ![](graph.png)
    
    Least to Most time complexity (ascending order of time complexity) of few of the known algorithms are as follows
 
