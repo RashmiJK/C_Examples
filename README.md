@@ -1,7 +1,7 @@
-# C_Examples
-Sorting algorithms in C
+# H1 Sorting algorithms in C
 
-# Big(O) notation is the time complexity behaviour of an algorithm as the input data set grows.
+# H2 Big(O) notation 
+   Big(O) is the time complexity behaviour of an algorithm as the input data set grows.
    O in this means order of operations.
    There is also a concept of space complexity or memory usage, like whether an algorithm can be sorted in place,
    or with constant memory or will it use extra memory to store intermediate results.
@@ -11,14 +11,13 @@ Sorting algorithms in C
    Least to Most time complexity (ascending order of time complexity) of few of the known algorithms are as follows
 
    1. Constant time : O(1)
-        - Looking up a single element in an array
+        Example, looking up a single element in an array
 
    2. Logarithmic time : O(log n)
-        - Binary search performed on a sorted array has logarithmic complexity
+        Example, binary search performed on a sorted array has logarithmic complexity
 
    3. Linear time : O(n)
-        - Searching an unsorted array for a specific value
-
+        Example, searching an unsorted array for a specific value
 
    4. Log linear : O(n log n)
       Complex sorting algorithms like
@@ -38,9 +37,7 @@ Sorting algorithms in C
             Its an in-place sorting algorithm.
             Uses recursion.
 
-
-
-   5. Quadratic : O(n2)  [ n sqaure]
+   5. Quadratic : O(n^2)
         (1) Bubble sort - Least efficient
             Remember first element bubbling (outer loop and inner loop)
             In place sorting
